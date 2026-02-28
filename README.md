@@ -1,6 +1,6 @@
 # Buenos Aires: Ciudad de 15 Minutos
 
-Análisis de accesibilidad urbana para la Ciudad Autónoma de Buenos Aires, desarrollado por [Aretian](https://aretian.com).
+Análisis de accesibilidad urbana para la Ciudad Autónoma de Buenos Aires.
 
 El concepto de **ciudad de 15 minutos** (Carlos Moreno, 2016) propone que cada habitante debería poder resolver sus necesidades esenciales caminando o en bicicleta en no más de 15 minutos. Este análisis evalúa cuatro dimensiones medibles con datos abiertos del GCBA:
 
